@@ -1,0 +1,5 @@
+Date : 06-02-2025
+
+Today I learned about how the git is working and basic commands.
+
+IMPLEMENTATION : created account ,set up git in system,and trying to do my work.
