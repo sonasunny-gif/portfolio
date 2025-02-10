@@ -3,3 +3,15 @@ Date : 06-02-2025
 Today I learned about how the git is working and basic commands.
 
 IMPLEMENTATION : created account ,set up git in system,and trying to do my work.
+
+Date :07-02-2025
+
+learned :about various lags
+ 
+IMPLEMENTATION :created portfolio html page
+
+Date :08-02-2025
+
+learned :learned css styles
+
+IMPLEMENTATION : created css file 
